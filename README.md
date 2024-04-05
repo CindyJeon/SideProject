@@ -1,4 +1,4 @@
-# SideProject 
+# SideProject (Webscraping_real_time_weather)
 Mia, Sadhna, and I created a business scenario for Lux, an imaginary consumer electronics company. 
 Web scraping weather data can be a solution to their business problem by allowing them to prepare for potential delivery disruptions.
 
